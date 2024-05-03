@@ -1,13 +1,13 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 
-import { Select } from '@ds.e/react'
+import { Select } from '@react-hoa-utils/react'
 
-import '@ds.e/scss/lib/Utilities.css'
-import '@ds.e/scss/lib/Text.css'
-import '@ds.e/scss/lib/Margin.css'
-import '@ds.e/scss/lib/Select.css'
-import '@ds.e/scss/lib/global.css'
+import '@react-hoa-utils/scss/lib/Utilities.css'
+import '@react-hoa-utils/scss/lib/Text.css'
+import '@react-hoa-utils/scss/lib/Margin.css'
+import '@react-hoa-utils/scss/lib/Select.css'
+import '@react-hoa-utils/scss/lib/global.css'
 
 const options = [{
     label: 'Strict Black',

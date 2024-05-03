@@ -1,5 +1,5 @@
 {
-  "name": "@ds.e/foundation",
+  "name": "@react-hoa-utils/foundation",
   "version": "0.1.3",
   "main": "lib/index.js",
   "license": "MIT",

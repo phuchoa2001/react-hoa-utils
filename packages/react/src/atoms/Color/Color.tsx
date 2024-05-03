@@ -1,5 +1,5 @@
 import React from 'react'
-import { Spacing } from '@ds.e/foundation'
+import { Spacing } from '@react-hoa-utils/foundation'
 
 export interface ColorProps {
     hexCode: string
